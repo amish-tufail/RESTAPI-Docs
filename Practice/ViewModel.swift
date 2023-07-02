@@ -7,7 +7,7 @@
 
 import Foundation
 import SwiftData
-//
+
 @Observable class ViewModel {
     let URLL = "https://jsonplaceholder.typicode.com/posts"
     var modelData: [Model] = []
